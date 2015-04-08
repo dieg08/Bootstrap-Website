@@ -1,0 +1,68 @@
+.navbar-text > a {
+    color: inherit;
+    text-decoration: none;
+}
+
+#pic {
+    text-align: center;
+}
+
+body {
+    padding-top: 70px;
+    padding-bottom: 100px;
+    background-color: #4c4c4c;
+}
+
+#info {
+    color: black;
+}
+
+.jumbotron {
+    color: white;
+    background-color: #999999;
+}
+
+.jumbotron h1{
+    font-family: 'Rock Salt', cursive;
+}
+
+
+.navbar-custom {
+    background-color: #0715CD;
+    color:#ffffff;
+    border-radius:0;
+    opacity: .5;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color:#fff;
+}
+.navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+    color: #ffffff;
+    background-color:transparent;
+}
+.navbar-custom .navbar-brand {
+    color: #eeeeee;
+}
+.navbar-custom2 {                                                                
+    background-color: #515bdc;                                                  
+    border-radius:0;         
+    opacity: .8;                                                   
+}                                                                               
+                                                                                
+.navbar-custom2 .navbar-nav > li > a {                                           
+    color:#fff;                                                                 
+}                                                                               
+.navbar-custom2 .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+    color: #ffffff;                                                             
+    background-color:transparent;                                               
+}                                                                               
+.navbar-custom2 .navbar-brand {                                                  
+    color: white; 
+    padding: 10px;    
+}    
+
+.row {
+    padding: 15px;
+    background-color: #999999;
+}
